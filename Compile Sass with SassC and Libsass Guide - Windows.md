@@ -5,7 +5,6 @@
 * [Compile Sass with SassC and Libsass Guide](http://mattferderer.com/compile-sass-with-sassc-and-libsass/)
 
 
-# STEP-1 Git Libsass and SassC
 # Step 1 - Git Libsass and SassC
 
 先安装Git版本控制器:
